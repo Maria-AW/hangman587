@@ -16,5 +16,5 @@ Installation instructions
 ## Contributing 
 If you would like to contribute to the project, please follow these steps:
 
-##License information
+## License information
 This project is under the 

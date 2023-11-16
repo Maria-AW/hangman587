@@ -15,7 +15,6 @@ def check_guess(word, guess):
         print(f"Sorry, '{guess}' is not in the word. Try again.")
 
 # Task 3: Create functions to run the checks 
-
 def ask_for_input():
     # Task 1: Continuously ask user for a letter and validate it
     while True: 
